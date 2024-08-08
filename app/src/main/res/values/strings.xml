@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Product Display</string>
+    <string name="view_products">View Products</string>
+    <string name="product_list">Product List</string>
+</resources>
